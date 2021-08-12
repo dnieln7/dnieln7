@@ -6,7 +6,7 @@ I am a software engineer. I like programming, listening to music 🎼 and gaming
 
 ### Skills
 
-![Kotlin](https://img.shields.io/badge/Kolin-0A7DDB?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&la-belColor=0866B2) 
+![Kotlin](https://img.shields.io/badge/Kolin-0A7DDB?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=0866B2) 
 
 ![Flutter](https://img.shields.io/badge/Flutter-0A7DDB?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=0866B2)
 
