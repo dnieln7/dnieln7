@@ -6,13 +6,15 @@ I am a software engineer. I like programming, listening to music 🎼 and gaming
 
 ### Skills
 
-![Kotlin](https://img.shields.io/badge/Kolin-0A7DDB?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=0866B2) 
+![Android](https://img.shields.io/badge/Android-2196F3?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=0061A4)
 
-![Flutter](https://img.shields.io/badge/Flutter-0A7DDB?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=0866B2)
+![Flutter](https://img.shields.io/badge/Flutter-2196F3?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=0061A4)
 
-![Java](https://img.shields.io/badge/Java-0A7DDB?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=0866B2)
+![Kotlin](https://img.shields.io/badge/Kotlin-2196F3?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=0061A4)
 
-![Javascript](https://img.shields.io/badge/Javascript-0A7DDB?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=0866B2)
+![Java](https://img.shields.io/badge/Java-2196F3?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=0061A4)
+
+![Go](https://img.shields.io/badge/Go-2196F3?style=for-the-badge&logo=go&logoColor=FFFFFF&labelColor=0061A4)
 
 ### Contact Me
 
@@ -21,6 +23,6 @@ I am a software engineer. I like programming, listening to music 🎼 and gaming
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnieln7&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnieln7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnieln7&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnieln7&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true"  alt="Github stats"/>
 </p>
